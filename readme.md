@@ -2,7 +2,7 @@
 * [Introduction](#Intro)
 
 ## Intro
-* mart TVs use a variety of operating systems (OS) to provide a seamless user experience. Here are some of the most popular ones:
+- Mart TVs use a variety of operating systems (OS) to provide a seamless user experience. Here are some of the most popular ones:
 ```
    1. WebOS: Developed by LG, WebOS is known for its user-friendly interface and support for major streaming apps like Netflix, Amazon Prime Video, and Disney+¹.
    2. Tizen OS: Samsung's proprietary OS, Tizen, offers a clear layout and easy usability. It includes features like Samsung TV Plus, which provides a selection of free internet-based TV channels¹.
@@ -11,11 +11,13 @@
    5. Roku TV: Known for its simplicity and extensive app library, Roku TV OS is used by various manufacturers, including TCL and Hisense².
    6. tvOS: Apple's tvOS is used in Apple TV devices and offers a smooth experience with a focus on Apple services like Apple TV+ and Apple Music⁴.
 ```
-Each OS has its unique features and strengths, so the best one for you depends on your specific needs and preferences.
+   Each OS has its unique features and strengths, so the best one for you depends on your specific needs and preferences.
 
-¹: [Stuff](https://www.stuff.tv/features/best-smart-tv-os/)
-²: [Tech Parasol](https://techparasol.com/smart-tvs-operating-systems/)
-⁴: [AppleInsider](https://appleinsider.com/inside/tvos)
+   ¹: [Stuff](https://www.stuff.tv/features/best-smart-tv-os/)
+   ²: [Tech Parasol](https://techparasol.com/smart-tvs-operating-systems/)
+   ⁴: [AppleInsider](https://appleinsider.com/inside/tvos)
+
+
 
 
 * To run an app for polling a TV, you can use several of the operating systems mentioned earlier. Here’s a brief overview of how you can achieve this on some of them:
@@ -37,10 +39,13 @@ Each OS has its unique features and strengths, so the best one for you depends o
       - Deployment process: Enable Developer Mode on your Roku TV, connect it to your computer, and use the Roku Developer Dashboard to deploy the app².
 
    5. Fire TV OS:
-      - Development: Use Android Studio to develop your app, similar to Android TV.
+      - Development: Use Android Studio to develop your app, which is similar to Android TV.
       - Deployment process: Enable Developer Mode on your Fire TV, connect it to your computer, and use Android Studio to deploy the app¹.
 ```
-Each of these platforms has its own development and deployment process, but they all support creating and running apps that can poll the TV for various tasks.
+   Each of these platforms has its own development and deployment process, but they all support creating and running apps that can poll the TV for various tasks.
+
+
+
 
 * There are several popular monetization solutions that businesses and developers use to generate revenue. Here are some of the most common ones:
 ```
@@ -64,4 +69,4 @@ Each of these platforms has its own development and deployment process, but they
 
    10. E-commerce: Selling physical or digital products directly to consumers through an online store¹.
 ```
-Each of these strategies can be tailored to fit different business models and target audiences.
+   Each of these strategies can be tailored to fit different business models and target audiences.
