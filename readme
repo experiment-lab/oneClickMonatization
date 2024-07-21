@@ -1,29 +1,4 @@
 ## Table of contents
-* [Introduction](#Intro1)
-* [Installation](#Installation)
-* [Start](#start)
-
-## Intro1
-The scope of this project...
-
-## Installation
-Project is created with:
-* Python 3.7
-
-```
-$ pip install pytorch
-
-```
-	
-## start
-To run this project, run he main file
-
-```
-$ python main.py
-
-```
-
-## Table of contents
 * [Introduction](#Intro)
 
 ## Intro
