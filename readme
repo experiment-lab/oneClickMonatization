@@ -1,4 +1,29 @@
 ## Table of contents
+* [Introduction](#Intro1)
+* [Installation](#Installation)
+* [Start](#start)
+
+## Intro1
+The scope of this project...
+
+## Installation
+Project is created with:
+* Python 3.7
+
+```
+$ pip install pytorch
+
+```
+	
+## start
+To run this project, run he main file
+
+```
+$ python main.py
+
+```
+
+## Table of contents
 * [Introduction](#Intro)
 
 ## Intro
@@ -65,5 +90,3 @@ Each of these platforms has its own development and deployment process, but they
 10. E-commerce: Selling physical or digital products directly to consumers through an online store¹.
 ```
 Each of these strategies can be tailored to fit different business models and target audiences.
-
-
